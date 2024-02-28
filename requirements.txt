@@ -1,0 +1,7 @@
+pandas_datareader
+scikit-learn
+keras
+tensorflow
+matplotlib
+yfinance
+neuralprophet
